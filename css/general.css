@@ -1,0 +1,184 @@
+:root {
+    /* text & blocks */
+    --basic-orange: #FF7315;
+    /* background */
+    --basic-black: #232020;
+    /* text */
+    --basic-grey: #3a3535;
+    /* accent */
+    --basic-blue: #D3F4FF;
+    /* not in use yet */
+    --basic-white: #F4F4F4;
+
+    /* USAGE */
+    /* background-color: var(--main-bg-color); */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Cairo', sans-serif;
+}
+img {
+    width: 100px;
+}
+
+
+.header {
+
+}
+.header__menu {
+
+}
+.header__menu-item {
+
+}
+.link {
+
+}
+.link__image {
+    
+}
+
+/* GENERAL BLOCKS */
+
+.wrapper {
+
+}
+.page-content {
+
+}
+.content-container {
+
+}
+
+/* TEXT BLOCKS */
+.text-container {
+
+}
+.title {
+
+}
+.text {
+
+}
+.subtitle {
+
+}
+.subtext {
+
+}
+
+/* SECTIONS BLOCKS */
+
+.about-me {
+
+}
+.photo-container {
+
+}
+.photo-container__image {
+
+}
+.scroll-down {
+
+}
+.scroll-down__image {
+
+}
+.scroll-down__text {
+
+}
+
+.technologies {
+
+}
+.technologies__container {
+
+}
+.technologies__item {
+
+}
+.technologies__image {
+
+}
+
+.education {
+
+}
+.education__container {
+
+}
+.education__item {
+
+}
+.education__image {
+
+}
+.education__icon {
+
+}
+
+.additional {
+
+}
+.additional__container {
+
+}
+.additional__item {
+
+}
+
+.contacts {
+
+}
+.contacts__container {
+
+}
+.contacts__item {
+
+}
+/* links class */
+
+.download-cv {
+
+}
+.download-cv__image {
+
+}
+.download-cv__container {
+
+}
+.download-cv__text {
+
+}
+.download-cv__button {
+
+}
+.download-cv__button-text {
+
+}
+.download-cv__button-image {
+
+}
+
+.footer {
+
+}
+.address {
+
+}
+.contacts-links {
+
+}
+
+
+.copyright {
+
+}
+.copyright__image {
+
+}
+.copyright__text {
+
+}
